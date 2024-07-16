@@ -1,5 +1,19 @@
 {
   "discord.enabled": true,
-  "cSpell.words": ["byeblock", "Byeblocker"],
+  "cSpell.words": [
+    "ASOS",
+    "Builtwith",
+    "byeblock",
+    "Byeblocker",
+    "fakeset",
+    "Instacart",
+    "lowes",
+    "Openverse",
+    "Pinterest",
+    "prepere",
+    "Schoology",
+    "tyap",
+    "Wolframalpha"
+  ],
   "editor.inlineSuggest.showToolbar": "onHover"
 }

@@ -1,8 +1,7 @@
 addEventListener("keydown", function (event) {
-  if (event.key === "Enter") {
-    search();
-  }
+  if (event.key === "Enter") search();
 });
+
 function displaySE() {
   var currentSE = document.getElementById("SE");
   var se = currentSE[currentSE.selectedIndex].id;
